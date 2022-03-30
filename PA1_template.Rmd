@@ -1,5 +1,6 @@
 ---
 title: "Reproducible Research: Peer Assessment 1"
+name : Somilya Anand
 output: 
   html_document:
     keep_md: true
